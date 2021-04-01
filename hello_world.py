@@ -1,4 +1,4 @@
 # Simple program
 print('Hello, World!')
-print('yada yada yada')
+print('yada yada yada ya')
 print('Goodbye, World!')
